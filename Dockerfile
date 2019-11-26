@@ -4,5 +4,5 @@ COPY package.json package.json
 RUN npm install
 RUN npm install nodemon -g --quiet
 COPY . .
-EXPOSE 3003
+EXPOSE 3005
 CMD  ["npm",  "start"]

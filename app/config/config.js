@@ -1,4 +1,4 @@
 module.exports = {
-    PORT: process.env.PORT || 3003,
-    DB: process.env.DB || 'mongodb://localhost:27027/guidefood'
+    PORT: 3005,
+    DB: process.env.DB || 'mongodb://127.0.0.1:27017/guidefood'
 }
