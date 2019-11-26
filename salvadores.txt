@@ -1,0 +1,4 @@
+netstat -aon | grep 27017
+sudo mongod --dbpath ./data/db/ --port 27017
+sudo service mongodb restart
+ps -aux | grep mongo
