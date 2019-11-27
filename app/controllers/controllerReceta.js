@@ -1,12 +1,14 @@
 const Receta = require('../models/recetas');
 
 function index(req, res) {
-    Receta.find({})
-        .then(recetas => {
-            if (recetas.length) return res.status(200).send({ recetas });
-            return res.status(204).send({ message: 'NO HAY CONTENIDO' });
-        }).catch(error => res.status(500).send({ error }));
-
+    Receta.find({}, function (err, receta) {
+        if (err)
+            res.send(err);
+        res.json(receta);
+    }).then(recetas => {
+        if (recetas.length) return res.status(200);
+        return res.status(204).send({ message: 'NO HAY CONTENIDO' });
+    }).catch(error => res.status(500).send({ error }));
 }
 function show(req, res) {
     if (req.body.error) return res.status(500).send({ error });

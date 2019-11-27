@@ -1,11 +1,20 @@
 const Ingrediente = require('../models/ingredientes');
 
 function index(req, res) {
-    Ingrediente.find({})
-        .then(ingredientes => {
-            if (ingredientes.length) return res.status(200).send({ ingredientes });
-            return res.status(204).send({ message: 'NO HAY CONTENIDO' });
-        }).catch(error => res.status(500).send({ error }));
+    // Ingrediente.find({})
+    //     .then(ingredientes => {
+    //         if (ingredientes.length) return res.status(200).send({ ingredientes });
+    //         return res.status(204).send({ message: 'NO HAY CONTENIDO' });
+    //     }).catch(error => res.status(500).send({ error }));
+
+    Ingrediente.find({}, function (err, igrediente) {
+        if (err)
+            res.send(err);
+        res.json(igrediente);
+    }).then(ingredientes => {
+        if (ingredientes.length) return res.status(200);
+        return res.status(204).send({ message: 'NO HAY CONTENIDO' });
+    }).catch(error => res.status(500).send({ error }));
 
 }
 function show(req, res) {
