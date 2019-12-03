@@ -2,3 +2,6 @@ netstat -aon | grep 27017
 sudo mongod --dbpath ./data/db/ --port 27017
 sudo service mongodb restart
 ps -aux | grep mongo
+mongoimport --db guidefood --collection recetas --file ./app/models/recetas.json --jsonArray
+mongoimport --db guidefood --collection ingredientes --file ./app/models/ingredientes.json --jsonArray
+db.dropDatabase()
