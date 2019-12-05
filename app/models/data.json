@@ -192,7 +192,7 @@
         {
             "id": 29,
             "nombre": "Laurel",
-            "tipo": "",
+            "tipo": "En hojas",
             "imagen": "https://www.naranjasdelguadalquivir.com/images/laurel.png",
             "medida": "hoja"
         },
@@ -229,6 +229,230 @@
             "nombre": "Jamón",
             "tipo": "Ibérico",
             "imagen": "https://i.pinimg.com/originals/16/66/02/1666022e8bbbe9567b02dce0c9eec376.png",
+            "medida": "g"
+        },
+        {
+            "id": 35,
+            "nombre": "Arroz",
+            "tipo": "Redonda",
+            "imagen": "https://i.dlpng.com/static/png/1225329-rice-png-photo-rice-png-1000_721_preview.png",
+            "medida": "g"
+        },
+        {
+            "id": 36,
+            "nombre": "Conejo",
+            "tipo": "Trasero",
+            "imagen": "https://www.nearqr.com/wp-content/uploads/comercio/7/prod/Conejo-entero.png",
+            "medida": "g"
+        },
+        {
+            "id": 37,
+            "nombre": "Calamar",
+            "tipo": "Pequeño",
+            "imagen": "https://www.stickpng.com/assets/images/585d3b8ccb11b227491c3357.png",
+            "medida": "uds"
+        },
+        {
+            "id": 38,
+            "nombre": "Mejillón",
+            "tipo": "Fresco",
+            "imagen": "https://mardamorosa.com/147-tm_large_default/mejillon.jpg",
+            "medida": "uds"
+        },
+        {
+            "id": 39,
+            "nombre": "Gamba",
+            "tipo": "Grande",
+            "imagen": "https://www.recetin.com/wp-content/uploads/2011/12/truco_cocer_langostino.png",
+            "medida": "uds"
+        },
+        {
+            "id": 40,
+            "nombre": "Cigala",
+            "tipo": "Grande",
+            "imagen": "https://guiadepescado.com/wp-content/uploads/2016/10/cigala-especie.png",
+            "medida": "uds"
+        },
+        {
+            "id": 41,
+            "nombre": "Azafrán",
+            "tipo": "En hebra",
+            "imagen": "https://www.stickpng.com/assets/images/5954baa2deaf2c03413be34f.png",
+            "medida": "mg"
+        },
+        {
+            "id": 42,
+            "nombre": "Caldo",
+            "tipo": "De pescado",
+            "imagen": "https://gbprodcdnimages2.azureedge.net/files/products/Caldo-Casero-de-Pescado-100-Natural.png",
+            "medida": "l"
+        },
+        {
+            "id": 43,
+            "nombre": "Orégano",
+            "tipo": "Triturado",
+            "imagen": "http://images.squarespace-cdn.com/content/v1/5b297193e17ba39d63407ff1/1529706033138-QTKQQXO6YWRVBY4C4MVK/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyD4IQ_uEhoqbBUjTJFcqKvko9JlUzuVmtjr1UPhOA5qkTLSJODyitRxw8OQt1oetw/oregano.png",
+            "medida": "g"
+        },
+        {
+            "id": 44,
+            "nombre": "Pimienta negra",
+            "tipo": "Molida",
+            "imagen": "https://annonagranel.com/wp-content/uploads/2018/10/pimiento-negra-molida.png",
+            "medida": "g"
+        },
+        {
+            "id": 45,
+            "nombre": "Bacon",
+            "tipo": "Crudo",
+            "imagen": "https://static.wixstatic.com/media/2cd43b_76d7443c687b47c283a11fdb9c3c474d~mv2.png?dn=file",
+            "medida": "g"
+        },
+        {
+            "id": 46,
+            "nombre": "Queso",
+            "tipo": "En polvo",
+            "imagen": "https://queserialafuente.com/uploads/productos/productos/producto/polvo_.png",
+            "medida": "g"
+        },
+        {
+            "id": 47,
+            "nombre": "Macarrones",
+            "tipo": "Penne",
+            "imagen": "https://pngimage.net/wp-content/uploads/2018/06/macarrones-png-1.png",
+            "medida": "g"
+        },
+        {
+            "id": 48,
+            "nombre": "Lubina",
+            "tipo": "Crianza de Nuestros Mares",
+            "imagen": "https://guiadepescado.com/wp-content/uploads/2016/11/lubina-especie.png",
+            "medida": "g"
+        },
+        {
+            "id": 49,
+            "nombre": "Almeja",
+            "tipo": "Gallega",
+            "imagen": "https://www.espinaler.com/wp-content/uploads/almeja-fina.png",
+            "medida": "g"
+        },
+        {
+            "id": 50,
+            "nombre": "Manzana",
+            "tipo": "Golden",
+            "imagen": "http://lasmanzanas.net/wp-content/uploads/2016/04/manzana-golden-300x300.png",
+            "medida": "g"
+        },
+        {
+            "id": 51,
+            "nombre": "Vino",
+            "tipo": "Blanco",
+            "imagen": "https://www.bodegasramonbilbao.es/wp-content/uploads/2018/06/ramon-bilbao-vino-verdejo-d-1.png",
+            "medida": "ml"
+        },
+        {
+            "id": 52,
+            "nombre": "Perejil",
+            "tipo": "Fresco",
+            "imagen": "http://www.remediosyuyos.com/wp-content/uploads/2018/05/perejil2.png",
+            "medida": "g"
+        },
+        {
+            "id": 53,
+            "nombre": "Cerdo",
+            "tipo": "Ibérico",
+            "imagen": "http://ibericosmaldonado.com/wp-content/uploads/2015/08/cerdo-e1441028539824.png",
+            "medida": "g"
+        },
+        {
+            "id": 54,
+            "nombre": "Láminas",
+            "tipo": "De lasaña",
+            "imagen": "https://www.stickpng.com/assets/images/589c825e64b351149f22a827.png",
+            "medida": "uds"
+        },
+        {
+            "id": 55,
+            "nombre": "Bechamel",
+            "tipo": "De bote",
+            "imagen": "https://asset-eu.unileversolutions.com/content/dam/unilever/knorr_world/spain/pack_shot/right_angle/savoury/sauces/kn_wsa_bechamel_20x500ml_bri_eb_es/2_salsa_bechamel_ambiente-1172910-png.png.ulenscale.315x315.png",
+            "medida": "ml"
+        },
+        {
+            "id": 56,
+            "nombre": "Leche",
+            "tipo": "Entera",
+            "imagen": "https://www.lechepuleva.es/documents/13930/113564/puleva_clasica_entera_brik_relacionado_grande.png",
+            "medida": "ml"
+        },
+        {
+            "id": 57,
+            "nombre": "Nuez moscada",
+            "tipo": "Molida",
+            "imagen": "https://static.wixstatic.com/media/350b45_3f91f85a3b7346a3838254f3088f5552~mv2.png/v1/fill/w_600,h_449,al_c,lg_1/350b45_3f91f85a3b7346a3838254f3088f5552~mv2.png",
+            "medida": "g"
+        },
+        {
+            "id": 58,
+            "nombre": "Mantequilla",
+            "tipo": "Tradicional",
+            "imagen": "https://www.stickpng.com/assets/images/58b16ec8102ddecdee0dd02c.png",
+            "medida": "g"
+        },
+        {
+            "id": 59,
+            "nombre": "Harina",
+            "tipo": "De trigo",
+            "imagen": "https://static.wixstatic.com/media/2cd43b_c5c96f20f5384303bd6a823afa5df94d~mv2.png?dn=2cd43b_c5c96f20f5384303bd6a823afa5df94d~mv2.png",
+            "medida": "g"
+        },
+        {
+            "id": 60,
+            "nombre": "Espagueti",
+            "tipo": "Tradicional",
+            "imagen": "https://i.pinimg.com/originals/89/61/05/896105d0497b81eb1c10090a2dc0f7e2.png",
+            "medida": "g"
+        },
+        {
+            "id": 61,
+            "nombre": "Galleta",
+            "tipo": "María",
+            "imagen": "https://pngimage.net/wp-content/uploads/2018/06/galleta-maria-png-2.png",
+            "medida": "g"
+        },
+        {
+            "id": 62,
+            "nombre": "Queso",
+            "tipo": "Crema",
+            "imagen": "https://res.cloudinary.com/riqra/image/upload/w_906,h_906,c_limit,q_auto,f_auto/v1507739837/Breadt/riqra_caja_philadelphia_queso_cream_210g_612x450.png",
+            "medida": "g"
+        },
+        {
+            "id": 63,
+            "nombre": "Nata",
+            "tipo": "Para montar",
+            "imagen": "https://www.centrallecheraasturiana.es/wp-content/uploads/2017/03/NATA_Montar_brick_FICHA.png",
+            "medida": "g"
+        },
+        {
+            "id": 64,
+            "nombre": "Azúcar",
+            "tipo": "Blanco",
+            "imagen": "https://www.calfruitos.com/es/fotos/pr_2236_20170907154636.png",
+            "medida": "g"
+        },
+        {
+            "id": 65,
+            "nombre": "Gelatina",
+            "tipo": "En láminas",
+            "imagen": "http://www.vahine.es/images/products/Gelatina%20en%20hojas_230.png",
+            "medida": "uds"
+        },
+        {
+            "id": 66,
+            "nombre": "Mermelada",
+            "tipo": "De fresa",
+            "imagen": "https://static.wixstatic.com/media/c92466_410438a94cf0492dbacae96ec9e7a98a~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
             "medida": "g"
         }
     ],
@@ -562,6 +786,566 @@
             ],
             "calificacion": 4.0,
             "imagen": "https://www.canasytapas.es/wp-content/uploads/2019/04/salmorejo.png"
+        },
+        {
+            "id": 8,
+            "nombre": "Paella mixta",
+            "dificultad": "Alta",
+            "duracion": "80 minutos",
+            "categoria": "Arroces",
+            "descripcion": [
+                "1. Limpiamos bien los mejillones debajo del grifo. Con un cuchillo rascamos las impurezas y arrancamos las barbas que sobresalen por la zona de unión de las conchas.Descartamos aquellos que estén rotos o abiertos.",
+                "2. Colocamos en una olla grande un vaso de agua y los mejillones. Los llevamos a ebullición con fuego fuerte y tapados. Escurrimos los mejillones y reservamos para mezclar con el caldo que vamos a añadir a la paella.",
+                "3. Lavamos bien el calamar. Lo cortamos en tiras de 1 centímetro de grosor y, después, cortamos cada tira en dados.",
+                "4. Cortamos el pollo y el conejo en trozos iguales (también puede hacerlo el carnicero).",
+                "5. Calentamos un buen chorretón de aceite de oliva virgen extra en una paella a fuego muy fuerte.",
+                "6. Empezamos con la carne, la añadimos al aceite bien caliente y la freímos. Antes de que esté bien cocinado el pollo y el conejo añadimos el calamar.",
+                "7. Freímos todo hasta que la carne tenga un color dorado. Cuando estén bien dorados los trozos de carne los sazonamos bien. Hay que controlar bien el fuego para que no se haga demasiado la carne y que el calamar quede blando. Limpiamos de bigotes las cigalas y las gambas. Sofreímos en el mismo aceite.",
+                "8. Podemos ir sacando los ingredientes de la paella. Reservamos en un plato o fuente hasta que el resto esté listo para seguir.",
+                "9. En la misma paella o cazuela rehogamos la cebolla, los pimientos y el ajo picado, cuidando que no se dore todo demasiado para que no amargue el conjunto.",
+                "10. A continuación rallamos los tomates con un rallador, cortándolos por la mitad y desechando su piel. Cuando esté todo pochadito añadimos el tomate rallado y el pimentón. Rehogamos de nuevo otros cinco minutos, antes de incorporar el pollo, el conejo y el calamar.",
+                "11. Calentamos en una cazuela (o en el microondas) el caldo de pescado.",
+                "12. A continuación añadimos todos los ingredientes que tenemos reservados excepto los mejillones, las cigalas y los gambas. Removemos todo para que se junten los sabores.",
+                "13. Añadimos el caldo y el azafrán. Es mejor quedarse corto que pasarse pues siempre podemos añadir algo más de agua si vemos que el arroz está demasiado seco y no se ha hecho todavía. Necesitamos tres veces el volumen de líquido que de arroz.",
+                "14. Cocinamos el caldo con los ingredientes durante 15 minutos. Es un buen momento de echar el azafrán, debemos ir probando el caldo para saber si está lo suficientemente sabroso y poder corregirlo de sal.",
+                "15. Distribuimos el arroz de forma uniforme por la paella. Cocemos entre 18-20 minutos. Podéis tener un cazo con agua hirviendo al lado, por si hay que añadir agua. Cuando queden 5 minutos de cocción añadiremos el marisco que tenemos reservado, excepto los mejillones que ya están cocinados.",
+                "16. La dejamos reposar unos minutos. Una vez listo el arroz, retiramos la paella o cazuela del fuego. Con unos 5-8 minutos fuera del fuego será suficiente. Este tiempo es fundamental para que el grano de arroz coja su punto idóneo y quede bien suelto.",
+                "17. Antes de servir colocamos los mejillones abiertos distribuidos por encima del arroz. Podemos acompañarla de unos trozos de limón o servir tal cual."
+            ],
+            "ingredientes": [
+                [
+                    35,
+                    600
+                ],
+                [
+                    9,
+                    400
+                ],
+                [
+                    36,
+                    400
+                ],
+                [
+                    37,
+                    1
+                ],
+                [
+                    38,
+                    12
+                ],
+                [
+                    29,
+                    2
+                ],
+                [
+                    39,
+                    8
+                ],
+                [
+                    40,
+                    6
+                ],
+                [
+                    6,
+                    50
+                ],
+                [
+                    2,
+                    150
+                ],
+                [
+                    3,
+                    150
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    1,
+                    200
+                ],
+                [
+                    30,
+                    400
+                ],
+                [
+                    41,
+                    400
+                ],
+                [
+                    7,
+                    400
+                ],
+                [
+                    10,
+                    200
+                ],
+                [
+                    42,
+                    2
+                ]
+            ],
+            "calificacion": 4.0,
+            "imagen": "http://spainoriginalfoods.com/img/p/6/1/3/613-large_default.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Ensalada mixta",
+            "dificultad": "Baja",
+            "duracion": "15 minutos",
+            "categoria": "Ensaladas",
+            "descripcion": [
+                "1. Cortamos varias hojas de lechuga iceberg, romana y rúcula, las lavamos y escucrrimos y las añadimos al recipiente.",
+                "2. Lavamos y cortamos el tomate y el pepino y lo echamos al recipiente.",
+                "3. Quitamos el aceite al atún y lo añadimos a la ensalada, junto con las aceitunas.",
+                "4. Cortamos media cebolla en pequeños trozos o tiras y la añadimos.",
+                "5. Añadimos aceite, vinagre y sal al gusto."
+            ],
+            "ingredientes": [
+                [
+                    19,
+                    40
+                ],
+                [
+                    18,
+                    30
+                ],
+                [
+                    21,
+                    30
+                ],
+                [
+                    23,
+                    24
+                ],
+                [
+                    28,
+                    30
+                ],
+                [
+                    14,
+                    80
+                ],
+                [
+                    10,
+                    25
+                ],
+                [
+                    7,
+                    1
+                ],
+                [
+                    6,
+                    50
+                ],
+                [
+                    4,
+                    150
+                ],
+                [
+                    1,
+                    90
+                ]
+            ],
+            "calificacion": 2.0,
+            "imagen": "https://pngimage.net/wp-content/uploads/2018/05/ensalada-mixta-png.png"
+        },
+        {
+            "id": 10,
+            "nombre": "Ensalada de tomate, cebolla y atún",
+            "dificultad": "Baja",
+            "duracion": "15 minutos",
+            "categoria": "Ensaladas",
+            "descripcion": [
+                "1. Lavamos y cortamos varios trozos de tomate y los ponemos en un plato llano, ocupando todo el plato.",
+                "2. Cortamos la cebolla en tiras o trozos pequeños y la ponemos en el plato junto al tomate",
+                "3. Abrimos una lata de atún y la añadimos, quitándole antes el aceite.",
+                "4. Añadimos aceite de oliva virgen extra, vinagre y sal al gusto."
+            ],
+            "ingredientes": [
+                [
+                    28,
+                    30
+                ],
+                [
+                    14,
+                    80
+                ],
+                [
+                    10,
+                    25
+                ],
+                [
+                    7,
+                    1
+                ],
+                [
+                    6,
+                    50
+                ],
+                [
+                    1,
+                    90
+                ],
+                [
+                    43,
+                    1
+                ]
+            ],
+            "calificacion": 2.0,
+            "imagen": "http://livvpizza.com/wp-content/uploads/2016/07/Tuna-Salad.png"
+        },
+        {
+            "id": 11,
+            "nombre": "Macarrones a la carbonara",
+            "dificultad": "Fácil",
+            "duracion": "30 minutos",
+            "categoria": "Pasta",
+            "descripcion": [
+                "1. Ponemos los macarrones a hervir en una cazuela grande con agua hirviendo.",
+                "2. Cortamos el bacon en tiras y lo ponemos en una sartén a freír.",
+                "3. Batimos tres huevos enteros y tres yemas de huevo, y le añadimos el queso en polvo, pimienta y sal.",
+                "4. Una vez hecho el bacon, lo añadimos a la salsa.",
+                "5. Cuando los macarrones estén listos, al dente es mejor, le añadimos la salsa y mezclamos hasta que todos los macarrones estén impregnados con la salsa."
+            ],
+            "ingredientes": [
+                [
+                    6,
+                    6
+                ],
+                [
+                    7,
+                    1
+                ],
+                [
+                    32,
+                    1000
+                ],
+                [
+                    47,
+                    300
+                ],
+                [
+                    44,
+                    1
+                ],
+                [
+                    45,
+                    100
+                ],
+                [
+                    46,
+                    100
+                ]
+            ],
+            "calificacion": 2.0,
+            "imagen": "http://paladeus.com/wp-content/uploads/2016/04/MACARRONES_CARBONARA-300x300.png"
+        },
+        {
+            "id": 12,
+            "nombre": "Lubina al horno con patatas y manzana",
+            "dificultad": "Alta",
+            "duracion": "1 hora",
+            "categoria": "Pescados",
+            "descripcion": [
+                "1. Pondremos en agua las almejas durante 1 hora, para que suelten la arena que pueda permanecer dentro de la concha. Deshechamos las que vengan ya abiertas.",
+                "2. Lavamos las patatas, las pelamos y las cortamos “en panadera”, en rodajas de medio centímetro. Las freímos en aceite bien caliente durante 5 minutos, para que se hagan en parte y luego terminen de cocinarse durante el tiempo de horneado.",
+                "3. Pelamos la cebolla y la cortamos en rodajas finas (menos que las patatas), para que se hagan perfectamente en el horno.",
+                "4. Pelamos la manzana, le quitamos el corazón y la cortamos (con piel incluida) en trozos como si fuesen gajos.",
+                "5. Los dientes de ajo y el perejil fresco los picamos finos y mezclamos con un chorrito de vino blanco. Salamos el pescado y lo untamos.",
+                "6. Precalentamos el horno durante 5 minutos a 180º C. En una fuente para horno plana Colocamos una base de patatas y salamos al gusto, ponemos una capa de cebolla por encima.",
+                "7. Incorporamos el pescado y finalmente repartimos los pedazos de manzana por la fuente.",
+                "8. Regamos la base de patatas y cebollas con el vino blanco. El tiempo recomendado será de 20 minutos a 180º C.",
+                "9. Comenzamos con 15 minutos y cuando resten 5 minutos, abrimos el horno, repartimos por la fuente las almejas y estas se irán abriendo poco a poco con el calor. Nos quedarían entonces 5 minutos más de tiempo y ya estaría listo."
+            ],
+            "ingredientes": [
+                [
+                    48,
+                    1300
+                ],
+                [
+                    8,
+                    620
+                ],
+                [
+                    49,
+                    400
+                ],
+                [
+                    50,
+                    170
+                ],
+                [
+                    6,
+                    75
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    51,
+                    100
+                ],
+                [
+                    10,
+                    150
+                ],
+                [
+                    52,
+                    50
+                ],
+                [
+                    7,
+                    5
+                ]
+            ],
+            "calificacion": 2.0,
+            "imagen": "http://www.lubinaalhorno.com/ImagenesLubinaAlHorno/ImagenesLubinaAlHorno/LubinaAlHornoAlLimon.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Lasaña",
+            "dificultad": "Media",
+            "duracion": "55 minutos",
+            "categoria": "Pasteles",
+            "descripcion": [
+                "1. Calentamos una cazuela grande de agua, la más ancha de casa. Cuando empiece a hervir echamos 2 puñados generosos de sal",
+                "2. Lavamos y cortamos las verduras que irán en el relleno, las zanahorias las cortamos lo más fino posible.",
+                "3. En otra cazuela echamos aceite de oliva virgen extra. Empezamos introduciendo pochando la cebolla y el ajo, cuando esté doradita, añadimos el resto de ingredientes. Sofreímos todo a temperatura media durante unos 15 minutos y esperamos por la carne.",
+                "4. Salpimentamos la carne al gusto y la echamos a la cazuela con la verdura. Dejamos que se pase durante 5 minutos y cuando veamos que va cambiando de color introducimos el bacon en trozos muy pequeños.",
+                "5. Vertemos un vaso de vino blanco y esperamos a que reduzca (otros 5 minutos a fuego medio).",
+                "6. Añadimos un vaso de tomate natural y rectificamos de sal y pimienta.",
+                "7. Removemos la carne con las verduras y retiramos del fuego. Precalentamos el horno a 200º C durante 15 minutos, lo justo para hacer el resto de la lasaña.",
+                "8. Mientras reposa la salsa vamos a preparar la bechamel. También podemos utilizar una bechamel comprada.",
+                "9. Ponemos en el fondo de la fuente unas cucharadas de la bechamel. Encima las láminas, una capa de la mezcla con la carne en cada lámina, otra vez la bechamel y así hasta tener 3 pisos. Finalmente rematamos con una capa generosa de bechamel.",
+                "10. Horneamos en la bandeja del medio durante 15 minutos a 180º C y durante 3-5 minutos en la parte superior con el gratinador puesto para que se dore."
+            ],
+            "ingredientes": [
+                [
+                    6,
+                    250
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    2,
+                    80
+                ],
+                [
+                    27,
+                    150
+                ],
+                [
+                    7,
+                    10
+                ],
+                [
+                    44,
+                    5
+                ],
+                [
+                    45,
+                    150
+                ],
+                [
+                    53,
+                    250
+                ],
+                [
+                    17,
+                    250
+                ],
+                [
+                    54,
+                    12
+                ],
+                [
+                    46,
+                    100
+                ],
+                [
+                    10,
+                    100
+                ],
+                [
+                    1,
+                    50
+                ],
+                [
+                    51,
+                    200
+                ],
+                [
+                    55,
+                    300
+                ]
+            ],
+            "calificacion": 2.0,
+            "imagen": "https://pizzeriasevilla.com/image/cache/catalog/lasa%C3%B1a-italiana-500x500.png"
+        },
+        {
+            "id": 14,
+            "nombre": "Bechamel",
+            "dificultad": "Fácil",
+            "duracion": "25 minutos",
+            "categoria": "Salsas",
+            "descripcion": [
+                "1. Tamizamos la harina con un colador.",
+                "2. Ponemos en un cazo a calentar a fuego medio el litro de leche durante 4-5 minutos sin que llegue a hervir.",
+                "3. En otro cazo introducimos la mantequilla y la calentamos a fuego bajo hasta que se derrita, tiene que tornar a un color avellana y sacará un poco de espuma que podemos quitar si queremos.",
+                "4. Luego añadimos la harina tamizada. Dejamos que se mezcle hasta que formen pequeñas masas de  tono dorado.",
+                "5. Removemos muy bien con una cuchara de madera la harina con la mantequilla hasta quede como una bola.",
+                "6. Echamos la leche caliente en el cazo con la harina y la mantequilla.",
+                "7. Añadimos sal, pimienta al gusto y un poco de nuez moscada molida.",
+                "8. Removemos de manera continua con una varilla (5-6 minutos). Vamos controlando la temperatura y añadiendo poco a poco el resto de la leche según veamos que va espesando. En este paso lo mejor es dejarlo al mínimo.Quedará un mezcla homogénea."
+            ],
+            "ingredientes": [
+                [
+                    59,
+                    125
+                ],
+                [
+                    58,
+                    125
+                ],
+                [
+                    56,
+                    1000
+                ],
+                [
+                    57,
+                    4
+                ],
+                [
+                    7,
+                    10
+                ],
+                [
+                    44,
+                    5
+                ]
+            ],
+            "calificacion": 2.0,
+            "imagen": "http://idata.over-blog.com/2/07/47/88/sale/Bechamel.png"
+        },
+        {
+            "id": 15,
+            "nombre": "Espagueti a la boloñesa",
+            "dificultad": "Fácil",
+            "duracion": "1 hora",
+            "categoria": "Pasta",
+            "descripcion": [
+                "1. En una sartén grande ponemos un chorrito de aceite de oliva y añadimos la cebolla y la zanahoria picados muy fino. Salpimentamos y cocinamos a fuego suave durante unos 10 minutos.",
+                "2. Cuando se haya ablandado un poco, subimos un poco el fuego y añadimos la carne picada. Le echamos su parte de sal y pimienta y con una cuchara de palo, vamos aplastándola y cortándola, de tal forma que nos quede después bien suelta, y dispersa por toda la salsa.",
+                "3. Cuando la carne haya cogido color, añadimos el tomate y la cucharadita de orégano. Dejamos cocinar unos 5 minutos más.",
+                "4. Añadimos el vino y después la leche.",
+                "5. Dejamos cocinar a fuego medio hasta que nos quede una salsa muy densa. Unos 45 minutos.",
+                "6. 10 minutos antes de que la salsa esté cocinada, preparamos los espaguetis. En un recipiente más bien alto ponemos abundante agua y un puñadito de sal. Cuando esté en ebullición metemos los espaguetis y los dejamos cocinar hasta que estén al dente. Alrededor de 10 minutos. Después escurrimos el agua y servimos inmediatamente los espaguetis, con unas cucharadas de la salsa boloñesa encima."
+            ],
+            "ingredientes": [
+                [
+                    60,
+                    400
+                ],
+                [
+                    6,
+                    100
+                ],
+                [
+                    27,
+                    80
+                ],
+                [
+                    17,
+                    250
+                ],
+                [
+                    1,
+                    500
+                ],
+                [
+                    51,
+                    75
+                ],
+                [
+                    56,
+                    60
+                ],
+                [
+                    43,
+                    1
+                ],
+                [
+                    7,
+                    10
+                ],
+                [
+                    44,
+                    5
+                ],
+                [
+                    10,
+                    20
+                ],
+                [
+                    32,
+                    1000
+                ]
+            ],
+            "calificacion": 2.0,
+            "imagen": "https://cocinandoconmispeques.weebly.com/uploads/4/7/5/4/47543857/pasta-con-bolognesa_orig.png"
+        },
+        {
+            "id": 16,
+            "nombre": "Tarta de queso",
+            "dificultad": "Fácil",
+            "duracion": "4 horas",
+            "categoria": "Postres",
+            "descripcion": [
+                "1. Trituramos las galletas con la ayuda de una batidora. Una vez hecho, añadimos la mantequilla derretida y mezclamos con una cuchara. Al final, nos tiene que quedar una textura similar a la de una arena húmeda.",
+                "2. Lo introducimos en un molde desmontable y una vez hecho, aplastamos con un vaso o una cuchara. Debe quedar bien compacto y sin huecos libres. Especialmente por los bordes. Esta base, será la que sujete nuestra tarta de queso sin horno. Metemos en la nevera mientras seguimos con el siguiente paso.",
+                "3. En una cazuela, ponemos el queso crema, la nata y el azúcar. Vamos mezclando mientras calentamos a fuego suave. Que no llegue a hervir. La idea es que los ingredientes se derritan y se integren bien entre sí.",
+                "4. Añadimos la gelatina en láminas siguiendo las instrucciones del fabricante.",
+                "5. Vertemos esta mezcla sobre la base de galleta que habíamos preparado, la cual ya estará algo fría y más compacta, después de haber estado en la nevera. Dejamos reposar a temperatura ambiente unos 10 minutos.",
+                "6. Pasados esos 10 minutos de reposo, devolvemos la tarta a la nevera. Ahora la dejamos aquí hasta que cuaje por completo. Mínimo 4 horas pero si la dejamos un día entero, mejor.",
+                "7. Tan sólo queda untarla, por su superficie, con mermelada de fresa. Si te cuesta un poco, puedes calentarla para licuarla más. Tan sólo es verterla en su superficie. Esperamos a que vuelva a enfríar y desmoldamos."
+            ],
+            "ingredientes": [
+                [
+                    61,
+                    100
+                ],
+                [
+                    58,
+                    50
+                ],
+                [
+                    62,
+                    500
+                ],
+                [
+                    63,
+                    500
+                ],
+                [
+                    64,
+                    100
+                ],
+                [
+                    65,
+                    4
+                ],
+                [
+                    66,
+                    250
+                ]
+            ],
+            "calificacion": 2.0,
+            "imagen": "http://www.pasteleriacurro.com/media/zoo/images/tarta_queso_9784a0e5c5d174f9316ae39a76a69198.png"
         }
     ]
 }
